@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>FerreteriaForero</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    
+ </head>
+<body>
+
+    <div id="container">
+
+        <header id="header">
+            <div id="logo">
+                <img src="assets/img/cabezote-completo.png" alt="Ferreteria logo" />
+            </div>
+        </header>
+        <nav id="menu">
+            <ul>
+                <li>
+                    <img src="assets/img/bannere-inicio-completo.png" alt="inicio" />
+                </li>
+
+            </ul>
+        </nav>
+
+
+
+        <div class= "slider-box">
+            <ul>
+                <li>
+                    <img src="assets/img/banner/banner-1.jpg" alt="">
+                </li>
+                <li>
+                    <img src="assets/img/banner/banner-2.jpg" alt="">
+                </li>
+                <li>
+                    <img src="assets/img/banner/banner-3.jpg" alt="">
+                </li>
+            </ul>
+        </div>
+
+
+        <div id="categorias">
+            <img src="assets/img/categoria/TXT-categorias.png"   />    
+        </div>
+
+        <div id="central">
+            <div class="product">
+                <img src="assets/img/categoria/micro-y-macro-completo.png"   />
+            </div>
+            <div class="product">
+                <img src="assets/img/categoria/tuberias-cpvc-completo.png"   />
+            </div>
+            <div class="product">
+                <img src="assets/img/categoria/completo-geotextiles.png"   />   
+                </div>
+            <div class="product">
+                <img src="assets/img/categoria/completo-hierro-ductil.png"   />
+            </div>
+            <div class="product">
+                <img src="assets/img/categoria/completo-valvula-registros.png"   />
+            </div>
+            <div class="product">
+                <img src="assets/img/categoria/completo-impermeabilizable.png"   />
+            </div>    
+            <div class="product">
+                <img src="assets/img/categoria/aros-completos.png"   />
+            </div>
+            <div class="product">
+                <img src="assets/img/categoria/completo-polietileno.png"   />
+            </div>           
+
+        </div>
+
+
+        <div id="proyectos">
+            <img src="assets/img/proyectos/TXT-proyectos.png"   />    
+        </div>
+
+
+    <footer id="footer">
+|       <img src="assets/img/footer-completo.png" alt="inicio" />
+    </footer>
+</body>
+</html>
